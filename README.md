@@ -11,6 +11,9 @@
 - toast 组件
 - dialog 组件
 
+可以手机扫码二维码看看效果图
+<img src="./static/qrcode.png">
+
 ## 用法
 
 1. 安装依赖
