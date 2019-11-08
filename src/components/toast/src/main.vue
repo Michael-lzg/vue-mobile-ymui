@@ -24,9 +24,9 @@ export default {
     }
   },
   mounted () {
-    // setTimeout(() => {
-    //   this.showTip = false
-    // }, 1500)
+    setTimeout(() => {
+      this.showTip = false
+    }, 1500)
   }
 }
 </script>
