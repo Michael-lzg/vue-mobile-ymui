@@ -3,6 +3,8 @@
 ## 简介
 
 这是一款基于 vue 框架开发的基础 UI 组件，主要包括 toast 和 dialog 插件，后续会不断拓展。
+效果图如下：
+<img src="./static/toast.png">
 
 ## 功能
 

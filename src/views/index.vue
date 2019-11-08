@@ -51,7 +51,7 @@ export default {
     },
     oneTip () {
       this.$toast({
-        msg: '字数少字数少'
+        msg: '手机号码不能为空'
       })
     },
     multiTip () {
